@@ -1,6 +1,7 @@
 from subprocess import call
 import os
 import json
+import sys
 
 
 BUILDER_PATH = os.path.dirname(os.path.abspath(__file__))
@@ -37,6 +38,9 @@ def rename_svg_glyph_names(data):
   svg_file = open(svg_path, 'r+')
   svg_text = svg_file.read()
   svg_file.seek(0)
+
+  reload(sys)
+  sys.setdefaultencoding("ISO-8859-1")
 
   for ionicon in data['icons']:
     # uniF2CA
