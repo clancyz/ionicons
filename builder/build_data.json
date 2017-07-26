@@ -1,5 +1,5 @@
 {
-  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
+  "build_hash": "939e91393c9ef58bfda19302e3ad95e50",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -869,36 +869,12 @@
       "name": "skip-forward"
     },
     {
-      "code": "0xf225",
-      "name": "social-android"
-    },
-    {
-      "code": "0xf224",
-      "name": "social-android-outline"
-    },
-    {
-      "code": "0xf4d9",
-      "name": "social-angular"
-    },
-    {
-      "code": "0xf4d8",
-      "name": "social-angular-outline"
-    },
-    {
       "code": "0xf227",
       "name": "social-apple"
     },
     {
       "code": "0xf226",
       "name": "social-apple-outline"
-    },
-    {
-      "code": "0xf2af",
-      "name": "social-bitcoin"
-    },
-    {
-      "code": "0xf2ae",
-      "name": "social-bitcoin-outline"
     },
     {
       "code": "0xf229",
@@ -933,56 +909,12 @@
       "name": "social-css3-outline"
     },
     {
-      "code": "0xf22b",
-      "name": "social-designernews"
-    },
-    {
-      "code": "0xf22a",
-      "name": "social-designernews-outline"
-    },
-    {
-      "code": "0xf22d",
-      "name": "social-dribbble"
-    },
-    {
-      "code": "0xf22c",
-      "name": "social-dribbble-outline"
-    },
-    {
-      "code": "0xf22f",
-      "name": "social-dropbox"
-    },
-    {
-      "code": "0xf22e",
-      "name": "social-dropbox-outline"
-    },
-    {
-      "code": "0xf4e1",
-      "name": "social-euro"
-    },
-    {
-      "code": "0xf4e0",
-      "name": "social-euro-outline"
-    },
-    {
       "code": "0xf231",
       "name": "social-facebook"
     },
     {
       "code": "0xf230",
       "name": "social-facebook-outline"
-    },
-    {
-      "code": "0xf34d",
-      "name": "social-foursquare"
-    },
-    {
-      "code": "0xf34c",
-      "name": "social-foursquare-outline"
-    },
-    {
-      "code": "0xf2c4",
-      "name": "social-freebsd-devil"
     },
     {
       "code": "0xf233",
@@ -1009,14 +941,6 @@
       "name": "social-googleplus-outline"
     },
     {
-      "code": "0xf237",
-      "name": "social-hackernews"
-    },
-    {
-      "code": "0xf236",
-      "name": "social-hackernews-outline"
-    },
-    {
       "code": "0xf4e3",
       "name": "social-html5"
     },
@@ -1025,28 +949,12 @@
       "name": "social-html5-outline"
     },
     {
-      "code": "0xf351",
-      "name": "social-instagram"
-    },
-    {
-      "code": "0xf350",
-      "name": "social-instagram-outline"
-    },
-    {
       "code": "0xf4e5",
       "name": "social-javascript"
     },
     {
       "code": "0xf4e4",
       "name": "social-javascript-outline"
-    },
-    {
-      "code": "0xf239",
-      "name": "social-linkedin"
-    },
-    {
-      "code": "0xf238",
-      "name": "social-linkedin-outline"
     },
     {
       "code": "0xf4e6",
@@ -1061,72 +969,12 @@
       "name": "social-octocat"
     },
     {
-      "code": "0xf2b1",
-      "name": "social-pinterest"
-    },
-    {
-      "code": "0xf2b0",
-      "name": "social-pinterest-outline"
-    },
-    {
-      "code": "0xf4e9",
-      "name": "social-python"
-    },
-    {
-      "code": "0xf23b",
-      "name": "social-reddit"
-    },
-    {
-      "code": "0xf23a",
-      "name": "social-reddit-outline"
-    },
-    {
       "code": "0xf23d",
       "name": "social-rss"
     },
     {
       "code": "0xf23c",
       "name": "social-rss-outline"
-    },
-    {
-      "code": "0xf4ea",
-      "name": "social-sass"
-    },
-    {
-      "code": "0xf23f",
-      "name": "social-skype"
-    },
-    {
-      "code": "0xf23e",
-      "name": "social-skype-outline"
-    },
-    {
-      "code": "0xf4ec",
-      "name": "social-snapchat"
-    },
-    {
-      "code": "0xf4eb",
-      "name": "social-snapchat-outline"
-    },
-    {
-      "code": "0xf241",
-      "name": "social-tumblr"
-    },
-    {
-      "code": "0xf240",
-      "name": "social-tumblr-outline"
-    },
-    {
-      "code": "0xf2c5",
-      "name": "social-tux"
-    },
-    {
-      "code": "0xf4ee",
-      "name": "social-twitch"
-    },
-    {
-      "code": "0xf4ed",
-      "name": "social-twitch-outline"
     },
     {
       "code": "0xf243",
@@ -1145,60 +993,12 @@
       "name": "social-usd-outline"
     },
     {
-      "code": "0xf245",
-      "name": "social-vimeo"
-    },
-    {
-      "code": "0xf244",
-      "name": "social-vimeo-outline"
-    },
-    {
-      "code": "0xf4f0",
-      "name": "social-whatsapp"
-    },
-    {
-      "code": "0xf4ef",
-      "name": "social-whatsapp-outline"
-    },
-    {
-      "code": "0xf247",
-      "name": "social-windows"
-    },
-    {
-      "code": "0xf246",
-      "name": "social-windows-outline"
-    },
-    {
-      "code": "0xf249",
-      "name": "social-wordpress"
-    },
-    {
-      "code": "0xf248",
-      "name": "social-wordpress-outline"
-    },
-    {
-      "code": "0xf24b",
-      "name": "social-yahoo"
-    },
-    {
-      "code": "0xf24a",
-      "name": "social-yahoo-outline"
-    },
-    {
       "code": "0xf4f2",
       "name": "social-yen"
     },
     {
       "code": "0xf4f1",
       "name": "social-yen-outline"
-    },
-    {
-      "code": "0xf24d",
-      "name": "social-youtube"
-    },
-    {
-      "code": "0xf24c",
-      "name": "social-youtube-outline"
     },
     {
       "code": "0xf4f4",
