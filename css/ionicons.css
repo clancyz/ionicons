@@ -11,7 +11,7 @@
   Modified icons to fit ionicon’s grid from original.
 */
 @font-face { font-family: "Ionicons"; src: url("../fonts/ionicons.eot?v=2.0.1"); src: url("../fonts/ionicons.eot?v=2.0.1#iefix") format("embedded-opentype"), url("../fonts/ionicons.ttf?v=2.0.1") format("truetype"), url("../fonts/ionicons.woff?v=2.0.1") format("woff"), url("../fonts/ionicons.svg?v=2.0.1#Ionicons") format("svg"); font-weight: normal; font-style: normal; }
-.ion, .ionicons, .ion-alert:before, .ion-alert-circled:before, .ion-android-add:before, .ion-android-arrow-dropdown-circle:before, .ion-android-arrow-dropleft-circle:before, .ion-android-arrow-dropright-circle:before, .ion-android-arrow-dropup-circle:before, .ion-android-close:before, .ion-android-done:before, .ion-android-done-all:before, .ion-android-remove:before, .ion-aperture:before, .ion-archive:before, .ion-arrow-down-a:before, .ion-arrow-down-b:before, .ion-arrow-down-c:before, .ion-arrow-expand:before, .ion-arrow-graph-down-left:before, .ion-arrow-graph-down-right:before, .ion-arrow-graph-up-left:before, .ion-arrow-graph-up-right:before, .ion-arrow-left-a:before, .ion-arrow-left-b:before, .ion-arrow-left-c:before, .ion-arrow-move:before, .ion-arrow-resize:before, .ion-arrow-return-left:before, .ion-arrow-return-right:before, .ion-arrow-right-a:before, .ion-arrow-right-b:before, .ion-arrow-right-c:before, .ion-arrow-shrink:before, .ion-arrow-swap:before, .ion-arrow-up-a:before, .ion-arrow-up-b:before, .ion-arrow-up-c:before, .ion-asterisk:before, .ion-at:before, .ion-backspace:before, .ion-backspace-outline:before, .ion-bag:before, .ion-battery-charging:before, .ion-battery-empty:before, .ion-battery-full:before, .ion-battery-half:before, .ion-battery-low:before, .ion-beaker:before, .ion-beer:before, .ion-bluetooth:before, .ion-bonfire:before, .ion-bookmark:before, .ion-bowtie:before, .ion-briefcase:before, .ion-bug:before, .ion-calculator:before, .ion-calendar:before, .ion-camera:before, .ion-card:before, .ion-cash:before, .ion-chatbox:before, .ion-chatbox-working:before, .ion-chatboxes:before, .ion-chatbubble:before, .ion-chatbubble-working:before, .ion-chatbubbles:before, .ion-checkmark:before, .ion-checkmark-circled:before, .ion-checkmark-round:before, .ion-chevron-down:before, .ion-chevron-left:before, .ion-chevron-right:before, .ion-chevron-up:before, .ion-clipboard:before, .ion-clock:before, .ion-close:before, .ion-close-circled:before, .ion-close-round:before, .ion-closed-captioning:before, .ion-cloud:before, .ion-code:before, .ion-code-download:before, .ion-code-working:before, .ion-coffee:before, .ion-compass:before, .ion-compose:before, .ion-connection-bars:before, .ion-contrast:before, .ion-crop:before, .ion-cube:before, .ion-disc:before, .ion-document:before, .ion-document-text:before, .ion-drag:before, .ion-earth:before, .ion-easel:before, .ion-edit:before, .ion-egg:before, .ion-eject:before, .ion-email:before, .ion-email-unread:before, .ion-erlenmeyer-flask:before, .ion-erlenmeyer-flask-bubbles:before, .ion-eye:before, .ion-eye-disabled:before, .ion-female:before, .ion-filing:before, .ion-film-marker:before, .ion-fireball:before, .ion-flag:before, .ion-flame:before, .ion-flash:before, .ion-flash-off:before, .ion-folder:before, .ion-fork:before, .ion-fork-repo:before, .ion-forward:before, .ion-funnel:before, .ion-gear-a:before, .ion-gear-b:before, .ion-grid:before, .ion-hammer:before, .ion-happy:before, .ion-happy-outline:before, .ion-headphone:before, .ion-heart:before, .ion-heart-broken:before, .ion-help:before, .ion-help-buoy:before, .ion-help-circled:before, .ion-home:before, .ion-icecream:before, .ion-image:before, .ion-images:before, .ion-information:before, .ion-information-circled:before, .ion-ionic:before, .ion-ipad:before, .ion-iphone:before, .ion-ipod:before, .ion-jet:before, .ion-key:before, .ion-knife:before, .ion-laptop:before, .ion-leaf:before, .ion-levels:before, .ion-lightbulb:before, .ion-link:before, .ion-load-a:before, .ion-load-b:before, .ion-load-c:before, .ion-load-d:before, .ion-location:before, .ion-lock-combination:before, .ion-locked:before, .ion-log-in:before, .ion-log-out:before, .ion-loop:before, .ion-magnet:before, .ion-male:before, .ion-man:before, .ion-map:before, .ion-medkit:before, .ion-merge:before, .ion-mic-a:before, .ion-mic-b:before, .ion-mic-c:before, .ion-minus:before, .ion-minus-circled:before, .ion-minus-round:before, .ion-model-s:before, .ion-monitor:before, .ion-more:before, .ion-mouse:before, .ion-music-note:before, .ion-navicon:before, .ion-navicon-round:before, .ion-navigate:before, .ion-network:before, .ion-no-smoking:before, .ion-nuclear:before, .ion-outlet:before, .ion-paintbrush:before, .ion-paintbucket:before, .ion-paper-airplane:before, .ion-paperclip:before, .ion-pause:before, .ion-person:before, .ion-person-add:before, .ion-person-stalker:before, .ion-pie-graph:before, .ion-pin:before, .ion-pinpoint:before, .ion-pizza:before, .ion-plane:before, .ion-planet:before, .ion-play:before, .ion-playstation:before, .ion-plus:before, .ion-plus-circled:before, .ion-plus-round:before, .ion-podium:before, .ion-pound:before, .ion-power:before, .ion-pricetag:before, .ion-pricetags:before, .ion-printer:before, .ion-pull-request:before, .ion-qr-scanner:before, .ion-quote:before, .ion-radio-waves:before, .ion-record:before, .ion-refresh:before, .ion-reply:before, .ion-reply-all:before, .ion-ribbon-a:before, .ion-ribbon-b:before, .ion-sad:before, .ion-sad-outline:before, .ion-scissors:before, .ion-search:before, .ion-settings:before, .ion-share:before, .ion-shuffle:before, .ion-skip-backward:before, .ion-skip-forward:before, .ion-social-apple:before, .ion-social-apple-outline:before, .ion-social-buffer:before, .ion-social-buffer-outline:before, .ion-social-chrome:before, .ion-social-chrome-outline:before, .ion-social-codepen:before, .ion-social-codepen-outline:before, .ion-social-css3:before, .ion-social-css3-outline:before, .ion-social-facebook:before, .ion-social-facebook-outline:before, .ion-social-github:before, .ion-social-github-outline:before, .ion-social-google:before, .ion-social-google-outline:before, .ion-social-googleplus:before, .ion-social-googleplus-outline:before, .ion-social-html5:before, .ion-social-html5-outline:before, .ion-social-javascript:before, .ion-social-javascript-outline:before, .ion-social-markdown:before, .ion-social-nodejs:before, .ion-social-octocat:before, .ion-social-rss:before, .ion-social-rss-outline:before, .ion-social-twitter:before, .ion-social-twitter-outline:before, .ion-social-usd:before, .ion-social-usd-outline:before, .ion-social-yen:before, .ion-social-yen-outline:before, .ion-soup-can:before, .ion-soup-can-outline:before, .ion-speakerphone:before, .ion-speedometer:before, .ion-spoon:before, .ion-star:before, .ion-stats-bars:before, .ion-steam:before, .ion-stop:before, .ion-thermometer:before, .ion-thumbsdown:before, .ion-thumbsup:before, .ion-toggle:before, .ion-toggle-filled:before, .ion-transgender:before, .ion-trash-a:before, .ion-trash-b:before, .ion-trophy:before, .ion-tshirt:before, .ion-tshirt-outline:before, .ion-umbrella:before, .ion-university:before, .ion-unlocked:before, .ion-upload:before, .ion-usb:before, .ion-videocamera:before, .ion-volume-high:before, .ion-volume-low:before, .ion-volume-medium:before, .ion-volume-mute:before, .ion-wand:before, .ion-waterdrop:before, .ion-wifi:before, .ion-wineglass:before, .ion-woman:before, .ion-wrench:before, .ion-xbox:before { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion, .ionicons, .ion-alert:before, .ion-alert-circled:before, .ion-android-add:before, .ion-android-arrow-dropdown-circle:before, .ion-android-arrow-dropleft-circle:before, .ion-android-arrow-dropright-circle:before, .ion-android-arrow-dropup-circle:before, .ion-android-close:before, .ion-android-done:before, .ion-android-done-all:before, .ion-android-remove:before, .ion-aperture:before, .ion-archive:before, .ion-arrow-down-a:before, .ion-arrow-down-b:before, .ion-arrow-down-c:before, .ion-arrow-expand:before, .ion-arrow-graph-down-left:before, .ion-arrow-graph-down-right:before, .ion-arrow-graph-up-left:before, .ion-arrow-graph-up-right:before, .ion-arrow-left-a:before, .ion-arrow-left-b:before, .ion-arrow-left-c:before, .ion-arrow-move:before, .ion-arrow-resize:before, .ion-arrow-return-left:before, .ion-arrow-return-right:before, .ion-arrow-right-a:before, .ion-arrow-right-b:before, .ion-arrow-right-c:before, .ion-arrow-shrink:before, .ion-arrow-swap:before, .ion-arrow-up-a:before, .ion-arrow-up-b:before, .ion-arrow-up-c:before, .ion-asterisk:before, .ion-at:before, .ion-backspace:before, .ion-backspace-outline:before, .ion-bag:before, .ion-bluetooth:before, .ion-bonfire:before, .ion-bookmark:before, .ion-briefcase:before, .ion-bug:before, .ion-calculator:before, .ion-calendar:before, .ion-camera:before, .ion-card:before, .ion-cash:before, .ion-chatbox:before, .ion-chatbox-working:before, .ion-chatboxes:before, .ion-chatbubble:before, .ion-chatbubble-working:before, .ion-chatbubbles:before, .ion-checkmark:before, .ion-checkmark-circled:before, .ion-checkmark-round:before, .ion-chevron-down:before, .ion-chevron-left:before, .ion-chevron-right:before, .ion-chevron-up:before, .ion-clipboard:before, .ion-clock:before, .ion-close:before, .ion-close-circled:before, .ion-close-round:before, .ion-closed-captioning:before, .ion-cloud:before, .ion-code:before, .ion-code-download:before, .ion-code-working:before, .ion-coffee:before, .ion-compass:before, .ion-compose:before, .ion-connection-bars:before, .ion-contrast:before, .ion-crop:before, .ion-cube:before, .ion-disc:before, .ion-document:before, .ion-document-text:before, .ion-drag:before, .ion-earth:before, .ion-easel:before, .ion-edit:before, .ion-eject:before, .ion-email:before, .ion-email-unread:before, .ion-eye:before, .ion-eye-disabled:before, .ion-female:before, .ion-filing:before, .ion-film-marker:before, .ion-fireball:before, .ion-flag:before, .ion-flame:before, .ion-flash:before, .ion-flash-off:before, .ion-folder:before, .ion-fork:before, .ion-fork-repo:before, .ion-forward:before, .ion-funnel:before, .ion-gear-a:before, .ion-gear-b:before, .ion-grid:before, .ion-hammer:before, .ion-happy:before, .ion-happy-outline:before, .ion-headphone:before, .ion-heart:before, .ion-heart-broken:before, .ion-help:before, .ion-help-buoy:before, .ion-help-circled:before, .ion-home:before, .ion-icecream:before, .ion-image:before, .ion-images:before, .ion-information:before, .ion-information-circled:before, .ion-ionic:before, .ion-ipad:before, .ion-iphone:before, .ion-ipod:before, .ion-key:before, .ion-knife:before, .ion-laptop:before, .ion-leaf:before, .ion-levels:before, .ion-link:before, .ion-load-a:before, .ion-load-b:before, .ion-load-c:before, .ion-load-d:before, .ion-location:before, .ion-lock-combination:before, .ion-locked:before, .ion-log-in:before, .ion-log-out:before, .ion-loop:before, .ion-magnet:before, .ion-male:before, .ion-man:before, .ion-map:before, .ion-medkit:before, .ion-merge:before, .ion-mic-a:before, .ion-mic-b:before, .ion-mic-c:before, .ion-minus:before, .ion-minus-circled:before, .ion-minus-round:before, .ion-monitor:before, .ion-more:before, .ion-mouse:before, .ion-music-note:before, .ion-navicon:before, .ion-navicon-round:before, .ion-navigate:before, .ion-network:before, .ion-nuclear:before, .ion-outlet:before, .ion-paintbrush:before, .ion-paintbucket:before, .ion-paper-airplane:before, .ion-paperclip:before, .ion-pause:before, .ion-person:before, .ion-person-add:before, .ion-person-stalker:before, .ion-pie-graph:before, .ion-pin:before, .ion-pinpoint:before, .ion-pizza:before, .ion-play:before, .ion-plus:before, .ion-plus-circled:before, .ion-plus-round:before, .ion-podium:before, .ion-pound:before, .ion-power:before, .ion-pricetag:before, .ion-pricetags:before, .ion-printer:before, .ion-pull-request:before, .ion-qr-scanner:before, .ion-quote:before, .ion-radio-waves:before, .ion-record:before, .ion-refresh:before, .ion-reply:before, .ion-reply-all:before, .ion-ribbon-a:before, .ion-ribbon-b:before, .ion-sad:before, .ion-sad-outline:before, .ion-scissors:before, .ion-search:before, .ion-settings:before, .ion-share:before, .ion-shuffle:before, .ion-skip-backward:before, .ion-skip-forward:before, .ion-social-apple:before, .ion-social-apple-outline:before, .ion-social-buffer:before, .ion-social-buffer-outline:before, .ion-social-chrome:before, .ion-social-chrome-outline:before, .ion-social-codepen:before, .ion-social-codepen-outline:before, .ion-social-css3:before, .ion-social-css3-outline:before, .ion-social-facebook:before, .ion-social-facebook-outline:before, .ion-social-github:before, .ion-social-github-outline:before, .ion-social-google:before, .ion-social-google-outline:before, .ion-social-googleplus:before, .ion-social-googleplus-outline:before, .ion-social-html5:before, .ion-social-html5-outline:before, .ion-social-javascript:before, .ion-social-javascript-outline:before, .ion-social-markdown:before, .ion-social-nodejs:before, .ion-social-octocat:before, .ion-social-rss:before, .ion-social-rss-outline:before, .ion-social-twitter:before, .ion-social-twitter-outline:before, .ion-social-usd:before, .ion-social-usd-outline:before, .ion-social-yen:before, .ion-social-yen-outline:before, .ion-speakerphone:before, .ion-speedometer:before, .ion-spoon:before, .ion-star:before, .ion-stats-bars:before, .ion-stop:before, .ion-thumbsdown:before, .ion-thumbsup:before, .ion-toggle:before, .ion-toggle-filled:before, .ion-transgender:before, .ion-trash-a:before, .ion-trash-b:before, .ion-umbrella:before, .ion-unlocked:before, .ion-upload:before, .ion-usb:before, .ion-videocamera:before, .ion-volume-high:before, .ion-volume-low:before, .ion-volume-medium:before, .ion-volume-mute:before, .ion-wand:before, .ion-waterdrop:before, .ion-wifi:before, .ion-wineglass:before, .ion-woman:before, .ion-wrench:before { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .ion-alert:before { content: ""; }
 
@@ -95,27 +95,11 @@
 
 .ion-bag:before { content: ""; }
 
-.ion-battery-charging:before { content: ""; }
-
-.ion-battery-empty:before { content: ""; }
-
-.ion-battery-full:before { content: ""; }
-
-.ion-battery-half:before { content: ""; }
-
-.ion-battery-low:before { content: ""; }
-
-.ion-beaker:before { content: ""; }
-
-.ion-beer:before { content: ""; }
-
 .ion-bluetooth:before { content: ""; }
 
 .ion-bonfire:before { content: ""; }
 
 .ion-bookmark:before { content: ""; }
-
-.ion-bowtie:before { content: ""; }
 
 .ion-briefcase:before { content: ""; }
 
@@ -205,17 +189,11 @@
 
 .ion-edit:before { content: ""; }
 
-.ion-egg:before { content: ""; }
-
 .ion-eject:before { content: ""; }
 
 .ion-email:before { content: ""; }
 
 .ion-email-unread:before { content: ""; }
-
-.ion-erlenmeyer-flask:before { content: ""; }
-
-.ion-erlenmeyer-flask-bubbles:before { content: ""; }
 
 .ion-eye:before { content: ""; }
 
@@ -291,8 +269,6 @@
 
 .ion-ipod:before { content: ""; }
 
-.ion-jet:before { content: ""; }
-
 .ion-key:before { content: ""; }
 
 .ion-knife:before { content: ""; }
@@ -302,8 +278,6 @@
 .ion-leaf:before { content: ""; }
 
 .ion-levels:before { content: ""; }
-
-.ion-lightbulb:before { content: ""; }
 
 .ion-link:before { content: ""; }
 
@@ -351,8 +325,6 @@
 
 .ion-minus-round:before { content: ""; }
 
-.ion-model-s:before { content: ""; }
-
 .ion-monitor:before { content: ""; }
 
 .ion-more:before { content: ""; }
@@ -368,8 +340,6 @@
 .ion-navigate:before { content: ""; }
 
 .ion-network:before { content: ""; }
-
-.ion-no-smoking:before { content: ""; }
 
 .ion-nuclear:before { content: ""; }
 
@@ -399,13 +369,7 @@
 
 .ion-pizza:before { content: ""; }
 
-.ion-plane:before { content: ""; }
-
-.ion-planet:before { content: ""; }
-
 .ion-play:before { content: ""; }
-
-.ion-playstation:before { content: ""; }
 
 .ion-plus:before { content: ""; }
 
@@ -529,10 +493,6 @@
 
 .ion-social-yen-outline:before { content: ""; }
 
-.ion-soup-can:before { content: ""; }
-
-.ion-soup-can-outline:before { content: ""; }
-
 .ion-speakerphone:before { content: ""; }
 
 .ion-speedometer:before { content: ""; }
@@ -543,11 +503,7 @@
 
 .ion-stats-bars:before { content: ""; }
 
-.ion-steam:before { content: ""; }
-
 .ion-stop:before { content: ""; }
-
-.ion-thermometer:before { content: ""; }
 
 .ion-thumbsdown:before { content: ""; }
 
@@ -563,15 +519,7 @@
 
 .ion-trash-b:before { content: ""; }
 
-.ion-trophy:before { content: ""; }
-
-.ion-tshirt:before { content: ""; }
-
-.ion-tshirt-outline:before { content: ""; }
-
 .ion-umbrella:before { content: ""; }
-
-.ion-university:before { content: ""; }
 
 .ion-unlocked:before { content: ""; }
 
@@ -600,7 +548,5 @@
 .ion-woman:before { content: ""; }
 
 .ion-wrench:before { content: ""; }
-
-.ion-xbox:before { content: ""; }
 
 /*# sourceMappingURL=ionicons.css.map */

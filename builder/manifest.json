@@ -1,5 +1,5 @@
 {
-  "build_hash": "6f7b1a66adbb993249758ceae7a94024",
+  "build_hash": "dac7f55a7ce9578c0fe0fd2e9f1b3a52",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -169,34 +169,6 @@
       "name": "bag"
     },
     {
-      "code": "0xf111",
-      "name": "battery-charging"
-    },
-    {
-      "code": "0xf112",
-      "name": "battery-empty"
-    },
-    {
-      "code": "0xf113",
-      "name": "battery-full"
-    },
-    {
-      "code": "0xf114",
-      "name": "battery-half"
-    },
-    {
-      "code": "0xf115",
-      "name": "battery-low"
-    },
-    {
-      "code": "0xf269",
-      "name": "beaker"
-    },
-    {
-      "code": "0xf26a",
-      "name": "beer"
-    },
-    {
       "code": "0xf116",
       "name": "bluetooth"
     },
@@ -207,10 +179,6 @@
     {
       "code": "0xf26b",
       "name": "bookmark"
-    },
-    {
-      "code": "0xf3c0",
-      "name": "bowtie"
     },
     {
       "code": "0xf26c",
@@ -389,10 +357,6 @@
       "name": "edit"
     },
     {
-      "code": "0xf277",
-      "name": "egg"
-    },
-    {
       "code": "0xf131",
       "name": "eject"
     },
@@ -403,14 +367,6 @@
     {
       "code": "0xf3c3",
       "name": "email-unread"
-    },
-    {
-      "code": "0xf3c5",
-      "name": "erlenmeyer-flask"
-    },
-    {
-      "code": "0xf3c4",
-      "name": "erlenmeyer-flask-bubbles"
     },
     {
       "code": "0xf133",
@@ -561,10 +517,6 @@
       "name": "ipod"
     },
     {
-      "code": "0xf295",
-      "name": "jet"
-    },
-    {
       "code": "0xf296",
       "name": "key"
     },
@@ -583,10 +535,6 @@
     {
       "code": "0xf298",
       "name": "levels"
-    },
-    {
-      "code": "0xf299",
-      "name": "lightbulb"
     },
     {
       "code": "0xf1fe",
@@ -681,10 +629,6 @@
       "name": "minus-round"
     },
     {
-      "code": "0xf2c1",
-      "name": "model-s"
-    },
-    {
       "code": "0xf20a",
       "name": "monitor"
     },
@@ -715,10 +659,6 @@
     {
       "code": "0xf341",
       "name": "network"
-    },
-    {
-      "code": "0xf2c2",
-      "name": "no-smoking"
     },
     {
       "code": "0xf2a4",
@@ -777,20 +717,8 @@
       "name": "pizza"
     },
     {
-      "code": "0xf214",
-      "name": "plane"
-    },
-    {
-      "code": "0xf343",
-      "name": "planet"
-    },
-    {
       "code": "0xf215",
       "name": "play"
-    },
-    {
-      "code": "0xf30a",
-      "name": "playstation"
     },
     {
       "code": "0xf218",
@@ -1037,14 +965,6 @@
       "name": "social-yen-outline"
     },
     {
-      "code": "0xf4f4",
-      "name": "soup-can"
-    },
-    {
-      "code": "0xf4f3",
-      "name": "soup-can-outline"
-    },
-    {
       "code": "0xf2b2",
       "name": "speakerphone"
     },
@@ -1065,16 +985,8 @@
       "name": "stats-bars"
     },
     {
-      "code": "0xf30b",
-      "name": "steam"
-    },
-    {
       "code": "0xf24f",
       "name": "stop"
-    },
-    {
-      "code": "0xf2b6",
-      "name": "thermometer"
     },
     {
       "code": "0xf250",
@@ -1105,24 +1017,8 @@
       "name": "trash-b"
     },
     {
-      "code": "0xf356",
-      "name": "trophy"
-    },
-    {
-      "code": "0xf4f7",
-      "name": "tshirt"
-    },
-    {
-      "code": "0xf4f6",
-      "name": "tshirt-outline"
-    },
-    {
       "code": "0xf2b7",
       "name": "umbrella"
-    },
-    {
-      "code": "0xf357",
-      "name": "university"
     },
     {
       "code": "0xf254",
@@ -1179,10 +1075,6 @@
     {
       "code": "0xf2ba",
       "name": "wrench"
-    },
-    {
-      "code": "0xf30c",
-      "name": "xbox"
     }
   ]
 }
