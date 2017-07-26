@@ -1,5 +1,5 @@
 {
-  "build_hash": "939e91393c9ef58bfda19302e3ad95e50",
+  "build_hash": "939e91393c9ef58b7a19302e3ad95e50",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -11,6 +11,42 @@
     {
       "code": "0xf100",
       "name": "alert-circled"
+    },
+    {
+      "code": "0xf2c7",
+      "name": "android-add"
+    },
+    {
+      "code": "0xf35e",
+      "name": "android-arrow-dropdown-circle"
+    },
+    {
+      "code": "0xf360",
+      "name": "android-arrow-dropleft-circle"
+    },
+    {
+      "code": "0xf362",
+      "name": "android-arrow-dropright-circle"
+    },
+    {
+      "code": "0xf364",
+      "name": "android-arrow-dropup-circle"
+    },
+    {
+      "code": "0xf2d7",
+      "name": "android-close"
+    },
+    {
+      "code": "0xf383",
+      "name": "android-done"
+    },
+    {
+      "code": "0xf382",
+      "name": "android-done-all"
+    },
+    {
+      "code": "0xf2f4",
+      "name": "android-remove"
     },
     {
       "code": "0xf313",

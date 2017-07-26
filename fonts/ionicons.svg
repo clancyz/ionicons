@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170718 at Wed Jul 26 16:28:06 2017
+Created by FontForge 20170718 at Wed Jul 26 18:11:06 2017
  By 朱翀宇
 Copyright (c) 2017, &#230;&#156;&#177;&#231;&#191;&#128;&#229;&#174;&#135;
 </metadata>
@@ -29,6 +29,24 @@ Copyright (c) 2017, &#230;&#156;&#177;&#231;&#191;&#128;&#229;&#174;&#135;
 d="M445 26c3 -5 5 -13 2 -18s-8 -8 -14 -8h-418c-6 0 -11 3 -14 8s-1 13 2 18l207 349c3 5 8 9 14 9s11 -4 14 -9zM256 48v48h-64v-48h64zM256 128v144h-64v-144h64z" />
     <glyph glyph-name="ion-alert" unicode="&#xf101;" horiz-adv-x="128" 
 d="M128 -32h-128v96h128v-96zM112 128h-96l-16 288h128z" />
+    <glyph glyph-name="ion-android-add" unicode="&#xf2c7;" horiz-adv-x="320" 
+d="M320 171h-139v-139h-42v139h-139v42h139v139h42v-139h139v-42z" />
+    <glyph glyph-name="ion-android-arrow-dropdown-circle" unicode="&#xf35e;" horiz-adv-x="416" 
+d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM208 128l96 96h-192z" />
+    <glyph glyph-name="ion-android-arrow-dropleft-circle" unicode="&#xf360;" horiz-adv-x="416" 
+d="M416 192c0 -115 -93 -208 -208 -208s-208 93 -208 208s93 208 208 208s208 -93 208 -208zM144 192l96 -96v192z" />
+    <glyph glyph-name="ion-android-arrow-dropright-circle" unicode="&#xf362;" horiz-adv-x="416" 
+d="M208 -16c-115 0 -208 93 -208 208s93 208 208 208s208 -93 208 -208s-93 -208 -208 -208zM176 96l96 96l-96 96v-192z" />
+    <glyph glyph-name="ion-android-arrow-dropup-circle" unicode="&#xf364;" horiz-adv-x="416" 
+d="M416 192c0 -115 -93 -208 -208 -208s-208 93 -208 208s93 208 208 208s208 -93 208 -208zM304 160l-96 96l-96 -96h192z" />
+    <glyph glyph-name="ion-android-close" unicode="&#xf2d7;" horiz-adv-x="298" 
+d="M298 311l-119 -119l119 -119l-30 -30l-119 119l-119 -119l-30 30l119 119l-119 119l30 30l119 -119l119 119z" />
+    <glyph glyph-name="ion-android-done-all" unicode="&#xf382;" horiz-adv-x="512" 
+d="M388 308l-140 -139l-31 31l140 139zM481 339l31 -31l-264 -263l-122 123l30 31l92 -91zM0 168l32 31l122 -123l-31 -31z" />
+    <glyph glyph-name="ion-android-done" unicode="&#xf383;" horiz-adv-x="384" 
+d="M122 108l230 230l32 -31l-262 -261l-122 122l32 31z" />
+    <glyph glyph-name="ion-android-remove" unicode="&#xf2f4;" horiz-adv-x="320" 
+d="M0 171v42h320v-42h-320z" />
     <glyph glyph-name="ion-aperture" unicode="&#xf313;" 
 d="M224 416c124 0 224 -100 224 -224s-100 -224 -224 -224s-224 100 -224 224s100 224 224 224zM360 56c36 36 56 85 56 136s-20 100 -56 136s-85 56 -136 56s-100 -20 -136 -56s-56 -85 -56 -136s20 -100 56 -136s85 -56 136 -56s100 20 136 56zM168 342l56 -86h-147
 c17 40 50 71 91 86zM381 160h-102l72 129c21 -27 33 -60 33 -97c0 -11 -1 -22 -3 -32zM328 314l-49 -90l-78 126c8 1 15 2 23 2c40 0 76 -14 104 -38zM67 224h102l-72 -129c-21 27 -33 60 -33 97c0 11 1 22 3 32zM280 42l-56 86h147c-17 -40 -50 -71 -91 -86zM120 70l49 90

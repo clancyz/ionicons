@@ -4,6 +4,15 @@
 .ionicons,
 .#{$ionicons-prefix}alert:before,
 .#{$ionicons-prefix}alert-circled:before,
+.#{$ionicons-prefix}android-add:before,
+.#{$ionicons-prefix}android-arrow-dropdown-circle:before,
+.#{$ionicons-prefix}android-arrow-dropleft-circle:before,
+.#{$ionicons-prefix}android-arrow-dropright-circle:before,
+.#{$ionicons-prefix}android-arrow-dropup-circle:before,
+.#{$ionicons-prefix}android-close:before,
+.#{$ionicons-prefix}android-done:before,
+.#{$ionicons-prefix}android-done-all:before,
+.#{$ionicons-prefix}android-remove:before,
 .#{$ionicons-prefix}aperture:before,
 .#{$ionicons-prefix}archive:before,
 .#{$ionicons-prefix}arrow-down-a:before,
@@ -293,6 +302,15 @@
 }
 .#{$ionicons-prefix}alert:before { content: $ionicon-var-alert; }
 .#{$ionicons-prefix}alert-circled:before { content: $ionicon-var-alert-circled; }
+.#{$ionicons-prefix}android-add:before { content: $ionicon-var-android-add; }
+.#{$ionicons-prefix}android-arrow-dropdown-circle:before { content: $ionicon-var-android-arrow-dropdown-circle; }
+.#{$ionicons-prefix}android-arrow-dropleft-circle:before { content: $ionicon-var-android-arrow-dropleft-circle; }
+.#{$ionicons-prefix}android-arrow-dropright-circle:before { content: $ionicon-var-android-arrow-dropright-circle; }
+.#{$ionicons-prefix}android-arrow-dropup-circle:before { content: $ionicon-var-android-arrow-dropup-circle; }
+.#{$ionicons-prefix}android-close:before { content: $ionicon-var-android-close; }
+.#{$ionicons-prefix}android-done:before { content: $ionicon-var-android-done; }
+.#{$ionicons-prefix}android-done-all:before { content: $ionicon-var-android-done-all; }
+.#{$ionicons-prefix}android-remove:before { content: $ionicon-var-android-remove; }
 .#{$ionicons-prefix}aperture:before { content: $ionicon-var-aperture; }
 .#{$ionicons-prefix}archive:before { content: $ionicon-var-archive; }
 .#{$ionicons-prefix}arrow-down-a:before { content: $ionicon-var-arrow-down-a; }
