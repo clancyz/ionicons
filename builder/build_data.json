@@ -1,5 +1,5 @@
 {
-  "build_hash": "6f7b1a66adbb993249758ceae7a94024",
+  "build_hash": "dac7f55a7ce9578c0fe0fd2e9f1b3a52",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -15,6 +15,10 @@
     {
       "code": "0xf2c7",
       "name": "android-add"
+    },
+    {
+      "code": "0xf35b",
+      "name": "android-alert"
     },
     {
       "code": "0xf35e",
